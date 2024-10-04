@@ -1,0 +1,37 @@
+26/05/2024 15:25:07 - RMI Server ready
+26/05/2024 15:25:07 - Group Chat RMI Server is running...!
+26/05/2024 15:25:07 - RMI Registry created successfully on port 9876
+26/05/2024 15:25:07 - ============================================================
+26/05/2024 15:25:33 - Error: Exception occurred
+26/05/2024 15:30:28 - RMI Server ready
+26/05/2024 15:30:28 - Group Chat RMI Server is running...!
+26/05/2024 15:30:28 - RMI Registry created successfully on port 9876
+26/05/2024 15:30:28 - ============================================================
+26/05/2024 15:32:08 - Sun May 26 15:32:08 ICT 2024
+26/05/2024 15:32:08 - nam1 đã tham gia vào cuộc trò chuyện
+26/05/2024 15:32:20 - Sun May 26 15:32:20 ICT 2024
+26/05/2024 15:32:20 - nam2 đã tham gia vào cuộc trò chuyện
+26/05/2024 15:32:51 - Sun May 26 15:32:51 ICT 2024
+26/05/2024 15:32:51 - nam3 đã tham gia vào cuộc trò chuyện
+26/05/2024 15:33:53 - Sun May 26 15:33:53 ICT 2024
+26/05/2024 15:33:53 - nam3 đã tham gia vào cuộc trò chuyện
+26/05/2024 15:34:13 - Sun May 26 15:34:13 ICT 2024
+26/05/2024 15:34:13 - nam2 đã tham gia vào cuộc trò chuyện
+26/05/2024 15:34:17 - Sun May 26 15:34:17 ICT 2024
+26/05/2024 15:34:17 - nam1 đã tham gia vào cuộc trò chuyện
+02/06/2024 21:49:21 - RMI Server ready
+02/06/2024 21:49:22 - Group Chat RMI Server is running...!
+02/06/2024 21:49:22 - RMI Registry created successfully on port 9876
+02/06/2024 21:49:22 - ============================================================
+02/06/2024 21:59:41 - RMI Server ready
+02/06/2024 21:59:41 - Group Chat RMI Server is running...!
+02/06/2024 21:59:41 - RMI Registry created successfully on port 9876
+02/06/2024 21:59:41 - ============================================================
+02/06/2024 22:04:50 - RMI Server ready
+02/06/2024 22:04:50 - Group Chat RMI Server is running...!
+02/06/2024 22:04:50 - RMI Registry created successfully on port 9876
+02/06/2024 22:04:50 - ============================================================
+02/06/2024 22:08:15 - RMI Server ready
+02/06/2024 22:08:15 - Group Chat RMI Server is running...!
+02/06/2024 22:08:15 - RMI Registry created successfully on port 9876
+02/06/2024 22:08:15 - ============================================================
